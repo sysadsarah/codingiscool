@@ -1,5 +1,4 @@
-
-#!bin/bash
+!bin/bash
 C=1
 Str="Sarah"
 I=3
